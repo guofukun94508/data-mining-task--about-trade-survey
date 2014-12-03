@@ -1,0 +1,7 @@
+totaltotal	totale	
+Total:totalbm,totalca,totalch,totalcs,totaldhb,totalea,totalfbw,	totalff,totalmv,totaloes,totalsg,totalthg,totalom,totalnr
+E:ebm,eca,ech,ecs,edhb,eea,efbw,eff,emv,eoes,esg,	ethg,eom,enr,
+
+
+
+totaltotal,totale,totalbm£¬ebm£¬totalca£¬eca£¬totalch£¬ech£¬totalcs£¬ecs£¬	totaldhb£¬edhb£¬totalea£¬eea£¬totalfbw£¬efbw£¬totalff£¬eff£¬totalmv£¬emv£¬	totaloes£¬eoes£¬totalsg£¬esg£¬totalthg£¬ethg£¬totalom£¬eom£¬totalnr£¬enr
